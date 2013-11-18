@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://YJ8708.github.io/myblog/sitemap.xml 
